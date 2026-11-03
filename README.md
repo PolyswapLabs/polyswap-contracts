@@ -39,6 +39,9 @@ View on [Polygonscan](https://polygonscan.com/address/0xEa8FA1438785b9464f988e3A
 Contract Address (Neg Risk CTF Exchange): `0x04a7745Ee5c5cCE28aD0A2c956e789415a90EA7D`
 View on [Polygonscan](https://polygonscan.com/address/0x04a7745Ee5c5cCE28aD0A2c956e789415a90EA7D#code)
 
+Contract Address PolyswapV2 (Exchange V3): `0xD9296a41dAE154ff47CcC124a77CF5acff4E1F50`
+View on [Sourcify](https://repo.sourcify.dev/137/0xD9296a41dAE154ff47CcC124a77CF5acff4E1F50)
+
 ## 🧑‍💻 Authors
 
  | [<img src="https://github.com/Intermarch3.png?size=85" width=85><br><sub>Lucas Leclerc</sub>](https://github.com/Intermarch3) | [<img src="https://github.com/Pybast.png?size=85" width=85><br><sub>Baptiste Florentin</sub>](https://github.com/Pybast)
